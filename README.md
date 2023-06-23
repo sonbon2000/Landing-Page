@@ -8,8 +8,6 @@ Project Rubric: [rubric](https://review.udacity.com/#!/rubrics/2658/view)
 
 I created a Landing Page. I'm going to use html5, css3- grid-layout, flexbox, media-queries, JavaScript .
 
-## Live-url- https://the-manpreet-singh.github.io/Landing-page/
-
 ## Start
 
 The project can be run by opening the index.html file in the browser.
